@@ -1,0 +1,927 @@
+fileFormatVersion: 2
+guid: 01326ce3e0f964aef82177cdadad7d60
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FlappyPoo_Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 3619
+        width: 632
+        height: 477
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ac606258f7c48edb5bb8ba9a09e7f3
+      internalID: -2031390138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyPoo_Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 3653
+        width: 459
+        height: 283
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c7f4711ca4e24457ae7df4fdf3ce0e0
+      internalID: 1148038145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyPoo_Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 3543
+        width: 508
+        height: 412
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd5a8c66256a4aa3b24110139e0d862
+      internalID: -1929763765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyPoo_Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 2119
+        y: 3840
+        width: 886
+        height: 213
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 495187569d97c4ebbb9ce72f94e20058
+      internalID: -727239213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyPoo_Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 3055
+        y: 3862
+        width: 886
+        height: 213
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be66c3ad6bb2249f48a4addca20ed7f4
+      internalID: -626606937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyPoo_Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 2145
+        y: 3598
+        width: 886
+        height: 213
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 844e36059af864798a384c0793f2eaf6
+      internalID: 1763905624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyPoo_Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 3055
+        y: 3578
+        width: 969
+        height: 233
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e6909d81dc5944098ff3d4b0c87e47e
+      internalID: 353035823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyPoo_Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 3053
+        width: 886
+        height: 444
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea90183332974b1e8f1781721b35334
+      internalID: -93317666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyPoo_Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 3057
+        width: 994
+        height: 524
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b08fbec4bf0554b778888a567aba3694
+      internalID: 296591520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyPoo_Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 2171
+        y: 3126
+        width: 886
+        height: 213
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc66df93b7144285a7c3be3c7596036
+      internalID: -2041499225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyPoo_Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 2171
+        y: 3335
+        width: 886
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89df02fd31fe946f996738f3f76c4118
+      internalID: -732178879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyPoo_Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3178
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8528e8917ac14788bf7c50bdde2c3cc
+      internalID: -993167234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyPoo_Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 3049
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49fd749ab42a649969dc4443662409d2
+      internalID: 2136403831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyPoo_Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 3017
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac7c1b6a27c747ce878c0eee9fe3882
+      internalID: -829642289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyPoo_Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 2755
+        width: 126
+        height: 172
+      alignment: 9
+      pivot: {x: 0.2595205, y: 0.8170961}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c856b83eb847c4e2b8cf82bb44031df8
+      internalID: -1257991068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyPoo_Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 2817
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f012452ae3e794f9990f0ffcbe129f29
+      internalID: 1692494763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyPoo_Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 2780
+        width: 166
+        height: 175
+      alignment: 9
+      pivot: {x: 0.3174674, y: 0.67314315}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b25f20ef842014fda925510bb406ca2c
+      internalID: 1077516006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyPoo_Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 37
+        width: 1726
+        height: 2940
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf01d201c19345369e8b579f993275f
+      internalID: 1375066735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyPoo_Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 2399
+        width: 112
+        height: 120
+      alignment: 9
+      pivot: {x: 0.1435677, y: 0.16732788}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b58c66d6bf9f4890ab8d36e7468da9e
+      internalID: -1776169607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyPoo_Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 2427
+        width: 124
+        height: 234
+      alignment: 9
+      pivot: {x: 0.35338518, y: 0.78487456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ccc0c544db58405f9088449f5638ccc
+      internalID: 345262568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyPoo_Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 2443
+        width: 146
+        height: 202
+      alignment: 9
+      pivot: {x: 0.375477, y: 0.74000233}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a0cc27f1b5674b0992ee78c8218b62b
+      internalID: 1418571225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyPoo_Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 2157
+        width: 294
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a36a5bad0a403443183fa6ae05d8ee03
+      internalID: 2143295359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyPoo_Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 2047
+        width: 120
+        height: 216
+      alignment: 9
+      pivot: {x: 0.3989975, y: 0.7244466}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84bae14dbac274c0693cda5584e512ef
+      internalID: -1422234955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyPoo_Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 2095
+        width: 120
+        height: 182
+      alignment: 9
+      pivot: {x: 0.3484975, y: 0.7330792}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2144653ad18d1471cab13c4dd87e4766
+      internalID: 11917430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyPoo_Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 3567
+        y: 1981
+        width: 228
+        height: 281
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e10ed00ea474ef083ba6cb15fac45c
+      internalID: -37431195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyPoo_Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1485
+        width: 808
+        height: 442
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ab1542b193441049c9d7dd78cbcacb
+      internalID: 1177767746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyPoo_Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 653
+        width: 754
+        height: 568
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ceffd907b6094995bdc6cb0deff19c5
+      internalID: 272763335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyPoo_Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 2990
+        y: 273
+        width: 909
+        height: 686
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e5d2df94bd24ed48785ff9ceb20a06
+      internalID: 934833634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyPoo_Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 151
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 618f0e7a18983430a9ca520da59fbe29
+      internalID: -1184349265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyPoo_Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 0
+        width: 384
+        height: 481
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c9b56250559a4b48a911effe6e0e324
+      internalID: 1904111603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyPoo_Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 165
+        width: 56
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc3989347b3448f6b00db9c064dd075
+      internalID: 715034211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyPoo_Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 37
+        width: 211
+        height: 454
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e4928b5ff8fd46288a2c17c5ddede15
+      internalID: -1888211346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyPoo_Spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 69
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c405ec04c5145e890a91dfd1a1f2a8
+      internalID: 1141588334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyPoo_Spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 25
+        width: 62
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba8a3270acb2d42b2a9805d9a5664d41
+      internalID: -1449062019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyPoo_Spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 0
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 545d7c0f79fad4681bf044d10604bdac
+      internalID: -1238558589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyPoo_Spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 3102
+        y: 3354
+        width: 916
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c19e6688d53b48c4a5a74c6989bbe8c
+      internalID: -1999488755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      FlappyPoo_Spritesheet_0: -2031390138
+      FlappyPoo_Spritesheet_1: 1148038145
+      FlappyPoo_Spritesheet_10: -732178879
+      FlappyPoo_Spritesheet_11: -993167234
+      FlappyPoo_Spritesheet_12: 2136403831
+      FlappyPoo_Spritesheet_13: -829642289
+      FlappyPoo_Spritesheet_14: -1257991068
+      FlappyPoo_Spritesheet_15: 1692494763
+      FlappyPoo_Spritesheet_16: 1077516006
+      FlappyPoo_Spritesheet_17: 1375066735
+      FlappyPoo_Spritesheet_18: -1776169607
+      FlappyPoo_Spritesheet_19: 345262568
+      FlappyPoo_Spritesheet_2: -1929763765
+      FlappyPoo_Spritesheet_20: 1418571225
+      FlappyPoo_Spritesheet_21: 2143295359
+      FlappyPoo_Spritesheet_22: -1422234955
+      FlappyPoo_Spritesheet_23: 11917430
+      FlappyPoo_Spritesheet_24: -37431195
+      FlappyPoo_Spritesheet_25: 1177767746
+      FlappyPoo_Spritesheet_26: 272763335
+      FlappyPoo_Spritesheet_27: 934833634
+      FlappyPoo_Spritesheet_28: -1184349265
+      FlappyPoo_Spritesheet_29: 1904111603
+      FlappyPoo_Spritesheet_3: -727239213
+      FlappyPoo_Spritesheet_30: 715034211
+      FlappyPoo_Spritesheet_31: -1888211346
+      FlappyPoo_Spritesheet_32: 1141588334
+      FlappyPoo_Spritesheet_33: -1449062019
+      FlappyPoo_Spritesheet_34: -1238558589
+      FlappyPoo_Spritesheet_35: -1999488755
+      FlappyPoo_Spritesheet_4: -626606937
+      FlappyPoo_Spritesheet_5: 1763905624
+      FlappyPoo_Spritesheet_6: 353035823
+      FlappyPoo_Spritesheet_7: -93317666
+      FlappyPoo_Spritesheet_8: 296591520
+      FlappyPoo_Spritesheet_9: -2041499225
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
