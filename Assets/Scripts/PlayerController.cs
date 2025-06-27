@@ -100,7 +100,7 @@ public class PlayerController : MonoBehaviour
     //=================================================================
     private void applyPhysicsToBird()
     {
-        rb.velocity = new Vector2(flyForce, rb.velocity.y);
+        rb.linearVelocity = new Vector2(flyForce, rb.linearVelocity.y);
         //This if statement booleans will be set by the input controller 
         //so we know what physics to apply
         if(flapping)
@@ -109,7 +109,7 @@ public class PlayerController : MonoBehaviour
             //again
             flapping = false;
             //apply the flap force to the bird
-            rb.velocity = new Vector2(0, flapForce);
+            rb.linearVelocity = new Vector2(0, flapForce);
 
             
         }
@@ -119,7 +119,7 @@ public class PlayerController : MonoBehaviour
             //again
             gliding = false;
             //apply the glide force to the bird
-            rb.velocity = new Vector2(glideForceX, glidForceY * -1);
+            rb.linearVelocity = new Vector2(glideForceX, glidForceY * -1);
         }
     }
     //=================================================================
