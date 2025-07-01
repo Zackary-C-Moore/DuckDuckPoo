@@ -4,8 +4,8 @@ public class TurbineBladeSpin : MonoBehaviour
 {
     public float rotationSpeed = 180f;
     private SpriteRenderer spriteRenderer;
-    private int frontBladeSortingLayer = 20;
-    private int backBladeSortingLayer = 18;
+    public int frontBladeSortingLayer = 20;
+    public int backBladeSortingLayer = 18;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -28,7 +28,7 @@ public class TurbineBladeSpin : MonoBehaviour
     {
         float angle = transform.eulerAngles.z % 360f;
 
-        if (angle >= 270f || angle <= 90f)
+        if (angle >= 200f || angle <= 40f)
         {
             spriteRenderer.sortingOrder = frontBladeSortingLayer;
         }

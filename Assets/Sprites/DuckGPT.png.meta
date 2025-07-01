@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: 634f17565626f497cb7da7d11e2672fd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8999234931781619758
+    second: DuckGPT_0
+  - first:
+      213: -1427592087442458001
+    second: DuckGPT_1
+  - first:
+      213: 1081287729080075123
+    second: DuckGPT_2
+  - first:
+      213: -413007797072275245
+    second: DuckGPT_3
+  - first:
+      213: -1575406671889908706
+    second: DuckGPT_4
+  - first:
+      213: -4309442669158809876
+    second: DuckGPT_5
+  - first:
+      213: -3988393162939090882
+    second: DuckGPT_6
+  - first:
+      213: -2231690437786268243
+    second: DuckGPT_7
+  - first:
+      213: 2740438024459506059
+    second: DuckGPT_8
+  - first:
+      213: 1926127093869427137
+    second: DuckGPT_9
+  - first:
+      213: -5789741871456013989
+    second: DuckGPT_10
+  - first:
+      213: -4749819767214538996
+    second: DuckGPT_11
+  - first:
+      213: -502398800817740719
+    second: DuckGPT_12
+  - first:
+      213: -5573339022363555643
+    second: DuckGPT_13
+  - first:
+      213: -5064513340048373699
+    second: DuckGPT_14
+  - first:
+      213: 4910999086749611934
+    second: DuckGPT_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DuckGPT_0
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 771
+        width: 320
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dfaed0728b4c1380800000000000000
+      internalID: -8999234931781619758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuckGPT_1
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 576
+        width: 287
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6a75d76f8c203ce0800000000000000
+      internalID: -1427592087442458001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuckGPT_2
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 648
+        width: 527
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3738ecfe571810f00800000000000000
+      internalID: 1081287729080075123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuckGPT_3
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 559
+        width: 305
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d85a06c893b44af0800000000000000
+      internalID: -413007797072275245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuckGPT_4
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 371
+        width: 262
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1cb8319af7032ae0800000000000000
+      internalID: -1575406671889908706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuckGPT_5
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 367
+        width: 289
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceeb0ec89b8c134c0800000000000000
+      internalID: -4309442669158809876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuckGPT_6
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 391
+        width: 114
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e383b6abc8166a8c0800000000000000
+      internalID: -3988393162939090882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuckGPT_7
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 346
+        width: 106
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dad0d1fee517701e0800000000000000
+      internalID: -2231690437786268243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuckGPT_8
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 175
+        width: 304
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b81d1e02dddf70620800000000000000
+      internalID: 2740438024459506059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuckGPT_9
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 170
+        width: 111
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c9b756036afaba10800000000000000
+      internalID: 1926127093869427137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuckGPT_10
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 230
+        width: 94
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b51b8aa7174b6afa0800000000000000
+      internalID: -5789741871456013989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuckGPT_11
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 227
+        width: 105
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0f7c0c5610451eb0800000000000000
+      internalID: -4749819767214538996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuckGPT_12
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 23
+        width: 272
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1542da5d3fe1709f0800000000000000
+      internalID: -502398800817740719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuckGPT_13
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 40
+        width: 148
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c8823f10b587a2b0800000000000000
+      internalID: -5573339022363555643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuckGPT_14
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 79
+        width: 110
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d38803e33fb37b9b0800000000000000
+      internalID: -5064513340048373699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuckGPT_15
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 83
+        width: 220
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e977af956af572440800000000000000
+      internalID: 4910999086749611934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      DuckGPT_0: -8999234931781619758
+      DuckGPT_1: -1427592087442458001
+      DuckGPT_10: -5789741871456013989
+      DuckGPT_11: -4749819767214538996
+      DuckGPT_12: -502398800817740719
+      DuckGPT_13: -5573339022363555643
+      DuckGPT_14: -5064513340048373699
+      DuckGPT_15: 4910999086749611934
+      DuckGPT_2: 1081287729080075123
+      DuckGPT_3: -413007797072275245
+      DuckGPT_4: -1575406671889908706
+      DuckGPT_5: -4309442669158809876
+      DuckGPT_6: -3988393162939090882
+      DuckGPT_7: -2231690437786268243
+      DuckGPT_8: 2740438024459506059
+      DuckGPT_9: 1926127093869427137
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

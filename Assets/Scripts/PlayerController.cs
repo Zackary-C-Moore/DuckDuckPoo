@@ -128,7 +128,8 @@ public class PlayerController : MonoBehaviour
     //=================================================================
     private void dropPoo()
     {
+        int randomPooIndex = Random.Range(0, pooList.Length);
         //create the poo in the game at the location pooLocation
-        Instantiate(pooList[0], pooLocation.position, pooLocation.rotation);
+        Instantiate(pooList[randomPooIndex], pooLocation.position, pooLocation.rotation);
     }
 }
