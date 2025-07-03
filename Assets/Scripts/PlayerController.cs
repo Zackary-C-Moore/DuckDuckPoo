@@ -81,17 +81,24 @@ public class PlayerController : MonoBehaviour
             animController.setBoolWingFlapAnimation(true);
             
         }
-        //if you hit left shift glide
-        else if(Input.GetKeyDown(KeyCode.LeftShift))
-        {
-            //set this to true so we can apply physics
-            gliding = true;
-        }
         //if you hit z poo
         else if(Input.GetKeyDown(KeyCode.Z))
         {
             //call the function to create the poo
             dropPoo();
+        }
+
+        //if you hold the left shift key
+        if (Input.GetKey(KeyCode.LeftShift))
+        {
+            //set this to true so we can apply physics
+            gliding = true;
+        }
+
+        if(Input.GetKeyUp(KeyCode.LeftShift))
+        {
+            //set this to false so we can stop applying the glide physics
+            gliding = false;
         }
     }
     //=================================================================
@@ -117,7 +124,7 @@ public class PlayerController : MonoBehaviour
         {
             //set gliding to false and wait for the player to glide 
             //again
-            gliding = false;
+            //gliding = false;
             //apply the glide force to the bird
             rb.linearVelocity = new Vector2(glideForceX, glidForceY * -1);
         }
