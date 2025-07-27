@@ -1,0 +1,737 @@
+fileFormatVersion: 2
+guid: 33744e615a34d43a89183e7ac83ba756
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -312308584970599952
+    second: Poo_0
+  - first:
+      213: -470390509167226288
+    second: Poo_1
+  - first:
+      213: 3229075066994683447
+    second: Poo_2
+  - first:
+      213: -5981636431545938290
+    second: Poo_3
+  - first:
+      213: -4289694083059613768
+    second: Poo_4
+  - first:
+      213: -3550606291749213993
+    second: Poo_5
+  - first:
+      213: -6291187652252284194
+    second: Poo_6
+  - first:
+      213: 6240137342707819889
+    second: Poo_7
+  - first:
+      213: 2292059865630824606
+    second: Poo_8
+  - first:
+      213: -6076466126569424272
+    second: Poo_9
+  - first:
+      213: 7358809006199198669
+    second: Poo_10
+  - first:
+      213: 1591094774835384615
+    second: Poo_11
+  - first:
+      213: 3256372989660167268
+    second: Poo_12
+  - first:
+      213: 5038040285362156688
+    second: Poo_13
+  - first:
+      213: 7074180421526673925
+    second: Poo_14
+  - first:
+      213: 5303891611563289708
+    second: Poo_15
+  - first:
+      213: 4284301201217482477
+    second: Poo_16
+  - first:
+      213: -7816814852147872277
+    second: Poo_17
+  - first:
+      213: 83107126275869858
+    second: Poo_18
+  - first:
+      213: -2103066313897495704
+    second: Poo_19
+  - first:
+      213: -7254981643078218911
+    second: Poo_20
+  - first:
+      213: 3692320379854482315
+    second: Poo_21
+  - first:
+      213: 2141436039962239092
+    second: Poo_22
+  - first:
+      213: -7720818219433920210
+    second: Poo_23
+  - first:
+      213: 3404709005373797922
+    second: Poo_24
+  - first:
+      213: -1015482986854121570
+    second: Poo_25
+  - first:
+      213: -8655222529155864199
+    second: Poo_26
+  - first:
+      213: 1463053555378843807
+    second: Poo_27
+  - first:
+      213: 9043008696741086013
+    second: Poo_28
+  - first:
+      213: -5914616958605711737
+    second: Poo_29
+  - first:
+      213: 1071790866368187090
+    second: Poo_30
+  - first:
+      213: 6493316944470523044
+    second: Poo_31
+  - first:
+      213: 2499068848673549841
+    second: Poo_32
+  - first:
+      213: 2352460101971754135
+    second: Poo_33
+  - first:
+      213: -4801875782122966390
+    second: Poo_34
+  - first:
+      213: 1863556955527971811
+    second: Poo_35
+  - first:
+      213: -8321588514403536493
+    second: Poo_36
+  - first:
+      213: 6009032924238737298
+    second: Poo_37
+  - first:
+      213: -1035615712369798230
+    second: Poo_38
+  - first:
+      213: -1347380069908322427
+    second: Poo_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PooSplatter_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 3400
+        width: 603
+        height: 604
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c0579ec54a4435b84a903478d4b245
+      internalID: -359522661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PooSplatter_1
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 3431
+        width: 567
+        height: 549
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fbeabc667d1244da9c749e8e6c12842
+      internalID: 1566091930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PooSplatter_2
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 3327
+        width: 464
+        height: 653
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67cd0acf0fb4d48d99ab50044e2084a2
+      internalID: -1239394957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PooSplatter_3
+      rect:
+        serializedVersion: 2
+        x: 2045
+        y: 3388
+        width: 543
+        height: 580
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13472cd8c12b14d71b6dd3484219a31a
+      internalID: -377257649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PooSplatter_4
+      rect:
+        serializedVersion: 2
+        x: 2826
+        y: 3516
+        width: 531
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9807b15eb87c5445b9aa9ace416408c4
+      internalID: -231535512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PooSplatter_5
+      rect:
+        serializedVersion: 2
+        x: 2777
+        y: 2638
+        width: 745
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbca2bb3c395545bba0e06e9b2a2d39a
+      internalID: 449264615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PooSplatter_6
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 2595
+        width: 476
+        height: 671
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc0474fa234664fd4a793e73eb089fbc
+      internalID: -2105342056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PooSplatter_7
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 2705
+        width: 464
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff6d95196abe74ee1b00131cf7b6657d
+      internalID: -424686544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PooSplatter_8
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 2753
+        width: 457
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e91f9ceabdb944f68657404dd241083
+      internalID: 418007604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PooSplatter_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 2741
+        width: 604
+        height: 470
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e394772032efb4f65ac772c65c6c3669
+      internalID: 1871446524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PooSplatter_10
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1887
+        width: 677
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e078b5b2cc8834f75b190ca5ed467d06
+      internalID: 43714336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PooSplatter_11
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 1918
+        width: 530
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2e66d4093042497686576f031e75733
+      internalID: -1266033172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PooSplatter_12
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 1558
+        width: 580
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff41c7547a2dc4b3db4f2f71bd1f59bc
+      internalID: 1690276243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PooSplatter_13
+      rect:
+        serializedVersion: 2
+        x: 2271
+        y: 1521
+        width: 683
+        height: 769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e8f4d59bae1144c196333eea67ed52a
+      internalID: -1095399951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PooSplatter_14
+      rect:
+        serializedVersion: 2
+        x: 3113
+        y: 1436
+        width: 811
+        height: 842
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ae0571f2897461d923c6e00f1e1fcf
+      internalID: -473486284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PooSplatter_15
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1003
+        width: 824
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c21eaf766bd42ba846da9ad7e37d4e
+      internalID: -2095774118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PooSplatter_16
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 155
+        width: 744
+        height: 591
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb336576c95684dc1aebea038f40bbb5
+      internalID: -33771757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PooSplatter_17
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 521
+        width: 617
+        height: 579
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 886b2c7dd561d41d791d2cde37abcb96
+      internalID: 1482163791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PooSplatter_18
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 490
+        width: 671
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b75a5138489f74bb3bc4e23f95c0e435
+      internalID: -146559478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PooSplatter_19
+      rect:
+        serializedVersion: 2
+        x: 2582
+        y: 441
+        width: 653
+        height: 769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 406afdd723a1a42d4974b2218d250941
+      internalID: -1221922360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PooSplatter_20
+      rect:
+        serializedVersion: 2
+        x: 3326
+        y: 454
+        width: 696
+        height: 817
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f8fd5d412754f50b17b8a9dab6cfba
+      internalID: 1083469015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 3c048059b7db945b3a1e67f52e93b106
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":4096.0,"y":4096.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+      - key: SpriteEditor.SliceOnImport
+        value: False
+    nameFileIdTable:
+      PooSplatter_0: -359522661
+      PooSplatter_1: 1566091930
+      PooSplatter_10: 43714336
+      PooSplatter_11: -1266033172
+      PooSplatter_12: 1690276243
+      PooSplatter_13: -1095399951
+      PooSplatter_14: -473486284
+      PooSplatter_15: -2095774118
+      PooSplatter_16: -33771757
+      PooSplatter_17: 1482163791
+      PooSplatter_18: -146559478
+      PooSplatter_19: -1221922360
+      PooSplatter_2: -1239394957
+      PooSplatter_20: 1083469015
+      PooSplatter_3: -377257649
+      PooSplatter_4: -231535512
+      PooSplatter_5: 449264615
+      PooSplatter_6: -2105342056
+      PooSplatter_7: -424686544
+      PooSplatter_8: 418007604
+      PooSplatter_9: 1871446524
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
