@@ -148,10 +148,10 @@ TextureImporter:
       name: Turbine_1
       rect:
         serializedVersion: 2
-        x: 1051
-        y: 313
-        width: 1164
-        height: 3138
+        x: 895
+        y: 126
+        width: 1196
+        height: 1013
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -170,10 +170,10 @@ TextureImporter:
       name: Turbine_2
       rect:
         serializedVersion: 2
-        x: 2755
-        y: 277
-        width: 1242
-        height: 3252
+        x: 2792
+        y: 1548
+        width: 1199
+        height: 2135
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -210,6 +210,28 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: Turbine_4
+      rect:
+        serializedVersion: 2
+        x: 2249
+        y: 181
+        width: 818
+        height: 1123
+      alignment: 9
+      pivot: {x: 0.51242995, y: 0.46050295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c0ab3e1de2414f229b371b1e04ba582
+      internalID: 21169169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
@@ -228,6 +250,7 @@ TextureImporter:
       Turbine_1: -1058501979
       Turbine_2: 1742875534
       Turbine_3: 741271219
+      Turbine_4: 21169169
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
