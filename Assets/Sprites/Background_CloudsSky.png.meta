@@ -1,0 +1,808 @@
+fileFormatVersion: 2
+guid: 462c9b6a0f8e141388cc640bb9f6e945
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2641948916748183781
+    second: Background_CloudsSky_0
+  - first:
+      213: -1000474784950506663
+    second: Background_CloudsSky_1
+  - first:
+      213: -5519969523128063603
+    second: Background_CloudsSky_2
+  - first:
+      213: 318111817151113758
+    second: Background_CloudsSky_3
+  - first:
+      213: -7291274767035799615
+    second: Background_CloudsSky_4
+  - first:
+      213: 7402596545330182187
+    second: Background_CloudsSky_5
+  - first:
+      213: 616072627601620009
+    second: Background_CloudsSky_6
+  - first:
+      213: -4024500301520519522
+    second: Background_CloudsSky_7
+  - first:
+      213: 2694482777334158644
+    second: Background_CloudsSky_8
+  - first:
+      213: 3439881926547062181
+    second: Background_CloudsSky_9
+  - first:
+      213: -7572082134628248262
+    second: Background_CloudsSky_10
+  - first:
+      213: -4651468981476026269
+    second: Background_CloudsSky_11
+  - first:
+      213: -4587105297791596866
+    second: Background_CloudsSky_12
+  - first:
+      213: -1590660396948931840
+    second: Background_CloudsSky_13
+  - first:
+      213: -8690168425581837000
+    second: Background_CloudsSky_14
+  - first:
+      213: -3029230884302026333
+    second: Background_CloudsSky_15
+  - first:
+      213: -8052651845613685396
+    second: Background_CloudsSky_16
+  - first:
+      213: -8049608445548725539
+    second: Background_CloudsSky_17
+  - first:
+      213: 8318702722161710058
+    second: Background_CloudsSky_18
+  - first:
+      213: 6187304031322665956
+    second: Background_CloudsSky_19
+  - first:
+      213: 5666585527366849349
+    second: Background_CloudsSky_20
+  - first:
+      213: 2488336471503764030
+    second: Background_CloudsSky_21
+  - first:
+      213: 7925309423193963170
+    second: Background_CloudsSky_22
+  - first:
+      213: 7088232381114134859
+    second: Background_CloudsSky_23
+  - first:
+      213: 8619422463675972875
+    second: Background_CloudsSky_24
+  - first:
+      213: 4130598110594937169
+    second: Background_CloudsSky_25
+  - first:
+      213: -366608775469401304
+    second: Background_CloudsSky_26
+  - first:
+      213: 6669771194026759354
+    second: Background_CloudsSky_27
+  - first:
+      213: 2408267296261953175
+    second: Background_CloudsSky_28
+  - first:
+      213: -1357238220442515032
+    second: Background_CloudsSky_29
+  - first:
+      213: -6486469775272967322
+    second: Background_CloudsSky_30
+  - first:
+      213: 2988690982494182986
+    second: Background_CloudsSky_31
+  - first:
+      213: 7028268658055321729
+    second: Background_CloudsSky_32
+  - first:
+      213: 1312973124305048777
+    second: Background_CloudsSky_33
+  - first:
+      213: 4394407304941350623
+    second: Background_CloudsSky_34
+  - first:
+      213: -541811830347136277
+    second: Background_CloudsSky_35
+  - first:
+      213: -5692001289142069139
+    second: Background_CloudsSky_36
+  - first:
+      213: -2306483932373441958
+    second: Background_CloudsSky_37
+  - first:
+      213: -8160610753485442106
+    second: Background_CloudsSky_38
+  - first:
+      213: -7131807282102543339
+    second: Background_CloudsSky_39
+  - first:
+      213: -6332439608632657571
+    second: Background_CloudsSky_40
+  - first:
+      213: -4598136925474097613
+    second: Background_CloudsSky_41
+  - first:
+      213: 7697478365949205748
+    second: Background_CloudsSky_42
+  - first:
+      213: 8883997158675879344
+    second: Background_CloudsSky_43
+  - first:
+      213: 6368564866920811073
+    second: Background_CloudsSky_44
+  - first:
+      213: -7195468818239389323
+    second: Background_CloudsSky_45
+  - first:
+      213: 2671566814047527770
+    second: Background_CloudsSky_46
+  - first:
+      213: -3454464179766358679
+    second: Background_CloudsSky_47
+  - first:
+      213: 8922715320140360189
+    second: Background_CloudsSky_48
+  - first:
+      213: 5495250348775387713
+    second: Background_CloudsSky_49
+  - first:
+      213: 1588396013246105093
+    second: Background_CloudsSky_50
+  - first:
+      213: -4773106628910437649
+    second: Background_CloudsSky_51
+  - first:
+      213: -6718796719205103451
+    second: Background_CloudsSky_52
+  - first:
+      213: 8335464110541472947
+    second: Background_CloudsSky_53
+  - first:
+      213: 2619235244067199618
+    second: Background_CloudsSky_54
+  - first:
+      213: -6035438800743258450
+    second: Background_CloudsSky_55
+  - first:
+      213: -4890427433767203309
+    second: Background_CloudsSky_56
+  - first:
+      213: -3708466927140208623
+    second: Background_CloudsSky_57
+  - first:
+      213: -3216743807992422343
+    second: Background_CloudsSky_58
+  - first:
+      213: 1125021047999516888
+    second: Background_CloudsSky_59
+  - first:
+      213: -4942968574360555121
+    second: Background_CloudsSky_60
+  - first:
+      213: -2229572215718276969
+    second: Background_CloudsSky_61
+  - first:
+      213: -5865123466036615297
+    second: Background_CloudsSky_62
+  - first:
+      213: -4906961981988125388
+    second: Background_CloudsSky_63
+  - first:
+      213: -2431823071634505342
+    second: Background_CloudsSky_64
+  - first:
+      213: 1191799756468713246
+    second: Background_CloudsSky_65
+  - first:
+      213: -9099553057274656364
+    second: Background_CloudsSky_66
+  - first:
+      213: 2032348431201317434
+    second: Background_CloudsSky_67
+  - first:
+      213: 3423681718611196987
+    second: Background_CloudsSky_68
+  - first:
+      213: 4906070558321503275
+    second: Background_CloudsSky_69
+  - first:
+      213: 7484486674993051430
+    second: Background_CloudsSky_70
+  - first:
+      213: 6232273562200279020
+    second: Background_CloudsSky_71
+  - first:
+      213: -9196589988299465515
+    second: Background_CloudsSky_72
+  - first:
+      213: -2138104577901064822
+    second: Background_CloudsSky_73
+  - first:
+      213: -8667625494376585975
+    second: Background_CloudsSky_74
+  - first:
+      213: -2964114805087606910
+    second: Background_CloudsSky_75
+  - first:
+      213: 7474295220967657528
+    second: Background_CloudsSky_76
+  - first:
+      213: 8052061835197464105
+    second: Background_CloudsSky_77
+  - first:
+      213: 2394620852469340260
+    second: Background_CloudsSky_78
+  - first:
+      213: -242377373856409757
+    second: Background_CloudsSky_79
+  - first:
+      213: -7119563395130684113
+    second: Background_CloudsSky_80
+  - first:
+      213: 2868024302996136325
+    second: Background_CloudsSky_81
+  - first:
+      213: 885444154933384668
+    second: Background_CloudsSky_82
+  - first:
+      213: 4837013731623962591
+    second: Background_CloudsSky_83
+  - first:
+      213: 7329159975189932095
+    second: Background_CloudsSky_84
+  - first:
+      213: -5423714143679161254
+    second: Background_CloudsSky_85
+  - first:
+      213: 621348856414595551
+    second: Background_CloudsSky_86
+  - first:
+      213: -295246436760577182
+    second: Background_CloudsSky_87
+  - first:
+      213: 538601773630823264
+    second: Background_CloudsSky_88
+  - first:
+      213: -414731651666851963
+    second: Background_CloudsSky_89
+  - first:
+      213: 296145079821320783
+    second: Background_CloudsSky_90
+  - first:
+      213: 1925614675356524540
+    second: Background_CloudsSky_91
+  - first:
+      213: -3685848032662415985
+    second: Background_CloudsSky_92
+  - first:
+      213: 1892528433676848010
+    second: Background_CloudsSky_93
+  - first:
+      213: -133990777370062771
+    second: Background_CloudsSky_94
+  - first:
+      213: -8296605817732050333
+    second: Background_CloudsSky_95
+  - first:
+      213: -7466639123129188770
+    second: Background_CloudsSky_96
+  - first:
+      213: -697778099874459421
+    second: Background_CloudsSky_97
+  - first:
+      213: 3125535771056996982
+    second: Background_CloudsSky_98
+  - first:
+      213: 9071789395084662183
+    second: Background_CloudsSky_99
+  - first:
+      213: 2618540177961793719
+    second: Background_CloudsSky_100
+  - first:
+      213: -6804412945082329290
+    second: Background_CloudsSky_101
+  - first:
+      213: -5342627161348605680
+    second: Background_CloudsSky_102
+  - first:
+      213: 8565721986240251725
+    second: Background_CloudsSky_103
+  - first:
+      213: -1641319417836111755
+    second: Background_CloudsSky_104
+  - first:
+      213: -2804205167051822248
+    second: Background_CloudsSky_105
+  - first:
+      213: -6281300844912924564
+    second: Background_CloudsSky_106
+  - first:
+      213: 6899583516869883090
+    second: Background_CloudsSky_107
+  - first:
+      213: -7301343554092646187
+    second: Background_CloudsSky_108
+  - first:
+      213: -7574519798308886755
+    second: Background_CloudsSky_109
+  - first:
+      213: 8168873210958682600
+    second: Background_CloudsSky_110
+  - first:
+      213: 1781330148414736687
+    second: Background_CloudsSky_111
+  - first:
+      213: -7423008423163083825
+    second: Background_CloudsSky_112
+  - first:
+      213: -3773176912199817338
+    second: Background_CloudsSky_113
+  - first:
+      213: -4384075826664786158
+    second: Background_CloudsSky_114
+  - first:
+      213: -3040754763021975057
+    second: Background_CloudsSky_115
+  - first:
+      213: -4287473008653793557
+    second: Background_CloudsSky_116
+  - first:
+      213: -3571958017961679188
+    second: Background_CloudsSky_117
+  - first:
+      213: 7671402884390012365
+    second: Background_CloudsSky_118
+  - first:
+      213: 4692055265072698410
+    second: Background_CloudsSky_119
+  - first:
+      213: 18636478755707994
+    second: Background_CloudsSky_120
+  - first:
+      213: 1119510757176674854
+    second: Background_CloudsSky_121
+  - first:
+      213: -5657720415372026817
+    second: Background_CloudsSky_122
+  - first:
+      213: -3900041532225072182
+    second: Background_CloudsSky_123
+  - first:
+      213: -2128283380485943898
+    second: Background_CloudsSky_124
+  - first:
+      213: 113817292247565426
+    second: Background_CloudsSky_125
+  - first:
+      213: -4850377858669403407
+    second: Background_CloudsSky_126
+  - first:
+      213: -3892175096723372130
+    second: Background_CloudsSky_127
+  - first:
+      213: -4683569690493525042
+    second: Background_CloudsSky_128
+  - first:
+      213: 4575984035656892629
+    second: Background_CloudsSky_129
+  - first:
+      213: -3015829272228760767
+    second: Background_CloudsSky_130
+  - first:
+      213: -82556418102796192
+    second: Background_CloudsSky_131
+  - first:
+      213: -3804345369248590211
+    second: Background_CloudsSky_132
+  - first:
+      213: -1704971998199821278
+    second: Background_CloudsSky_133
+  - first:
+      213: 8232668806040469477
+    second: Background_CloudsSky_134
+  - first:
+      213: -3057492251121837422
+    second: Background_CloudsSky_135
+  - first:
+      213: 6506770336173019794
+    second: Background_CloudsSky_136
+  - first:
+      213: -288206705048402409
+    second: Background_CloudsSky_137
+  - first:
+      213: 2759209663689262670
+    second: Background_CloudsSky_138
+  - first:
+      213: -4279181088050955756
+    second: Background_CloudsSky_139
+  - first:
+      213: 5666734264146360145
+    second: Background_CloudsSky_140
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Background_CloudsSky_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 2822
+        width: 4048
+        height: 1043
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b171f763579e55bd0800000000000000
+      internalID: -2641948916748183781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_CloudsSky_1
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 1526
+        width: 340
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded7b859c6f944796a81234fd84fb6f4
+      internalID: -1000474784950506663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_CloudsSky_2
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 1568
+        width: 311
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ba9b5b002bc410d974034569b98964
+      internalID: -5519969523128063603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_CloudsSky_3
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 1523
+        width: 365
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd77aed9a0e14e2995bc42e554fbdaa
+      internalID: 318111817151113758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_CloudsSky_4
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1360
+        width: 302
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75daa531095564b45ae8aad349719f19
+      internalID: -7291274767035799615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_CloudsSky_5
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 1362
+        width: 385
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2598632a51b2e4df3b9a11f5ebc87e2f
+      internalID: 7402596545330182187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_CloudsSky_6
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 1332
+        width: 282
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b0e07263bb5e4639a37fa2243210de7
+      internalID: 616072627601620009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_CloudsSky_7
+      rect:
+        serializedVersion: 2
+        x: 1990
+        y: 1364
+        width: 246
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5a17f8e233dc4ad3a56df09d4cb18db
+      internalID: -4024500301520519522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_CloudsSky_8
+      rect:
+        serializedVersion: 2
+        x: 2261
+        y: 1354
+        width: 593
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d05e617b8ec4d4984bd5326e7bc291e8
+      internalID: 2694482777334158644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_CloudsSky_9
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1473
+        width: 437
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66fd7a0128c6a4037bcd4a4c81c7e9a4
+      internalID: 3439881926547062181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_CloudsSky_10
+      rect:
+        serializedVersion: 2
+        x: 3491
+        y: 1504
+        width: 274
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ccf4de71b474e0a9b4f0a1e265409f
+      internalID: -7572082134628248262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: b845c6b7382dd41df868108f1c54b1e4
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":4096.0,"y":4096.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Background_CloudsSky_0: -2641948916748183781
+      Background_CloudsSky_1: -1000474784950506663
+      Background_CloudsSky_10: -7572082134628248262
+      Background_CloudsSky_2: -5519969523128063603
+      Background_CloudsSky_3: 318111817151113758
+      Background_CloudsSky_4: -7291274767035799615
+      Background_CloudsSky_5: 7402596545330182187
+      Background_CloudsSky_6: 616072627601620009
+      Background_CloudsSky_7: -4024500301520519522
+      Background_CloudsSky_8: 2694482777334158644
+      Background_CloudsSky_9: 3439881926547062181
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

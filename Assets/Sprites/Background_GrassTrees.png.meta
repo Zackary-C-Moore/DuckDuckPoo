@@ -1,0 +1,487 @@
+fileFormatVersion: 2
+guid: a2c0b89aa807049d8b0b0759f2afb69c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2185620969967287079
+    second: Background_GrassTrees_0
+  - first:
+      213: -5446171161146801888
+    second: Background_GrassTrees_1
+  - first:
+      213: -679819022819983770
+    second: Background_GrassTrees_2
+  - first:
+      213: -3324999254094766517
+    second: Background_GrassTrees_3
+  - first:
+      213: 4769618864606997363
+    second: Background_GrassTrees_4
+  - first:
+      213: -2047857390517935012
+    second: Background_GrassTrees_5
+  - first:
+      213: 7889016725908318119
+    second: Background_GrassTrees_6
+  - first:
+      213: 1547569113787107357
+    second: Background_GrassTrees_7
+  - first:
+      213: 6079966202939649427
+    second: Background_GrassTrees_8
+  - first:
+      213: -1363553833684801970
+    second: Background_GrassTrees_9
+  - first:
+      213: 3782637910040666849
+    second: Background_GrassTrees_10
+  - first:
+      213: 1685050939200415232
+    second: Background_GrassTrees_11
+  - first:
+      213: 2907400569520776205
+    second: Background_GrassTrees_12
+  - first:
+      213: -6888408699393896250
+    second: Background_GrassTrees_13
+  - first:
+      213: 7605289485109592346
+    second: Background_GrassTrees_14
+  - first:
+      213: 8135557914925151700
+    second: Background_GrassTrees_15
+  - first:
+      213: 608610707310994963
+    second: Background_GrassTrees_16
+  - first:
+      213: 3229658561752991762
+    second: Background_GrassTrees_17
+  - first:
+      213: -6353320221454950286
+    second: Background_GrassTrees_18
+  - first:
+      213: -6468571779479026037
+    second: Background_GrassTrees_19
+  - first:
+      213: 4106591877561865584
+    second: Background_GrassTrees_20
+  - first:
+      213: -3015568483164511217
+    second: Background_GrassTrees_21
+  - first:
+      213: -5225300660515416469
+    second: Background_GrassTrees_22
+  - first:
+      213: -3871189372703627687
+    second: Background_GrassTrees_23
+  - first:
+      213: -3553104926848122522
+    second: Background_GrassTrees_24
+  - first:
+      213: 4558739584719108571
+    second: Background_GrassTrees_25
+  - first:
+      213: 5832791926023643980
+    second: Background_GrassTrees_26
+  - first:
+      213: 7728674330919146074
+    second: Background_GrassTrees_27
+  - first:
+      213: -7163654204701019349
+    second: Background_GrassTrees_28
+  - first:
+      213: 6422450443152382416
+    second: Background_GrassTrees_29
+  - first:
+      213: 5044376766378430773
+    second: Background_GrassTrees_30
+  - first:
+      213: -2193005380927538950
+    second: Background_GrassTrees_31
+  - first:
+      213: 4772913477159419559
+    second: Background_GrassTrees_32
+  - first:
+      213: 3982688720215878415
+    second: Background_GrassTrees_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Background_GrassTrees_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3244
+        width: 4096
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72b7b8831b2e45e10800000000000000
+      internalID: 2185620969967287079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_GrassTrees_1
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 3649
+        width: 332
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f86198d95798f4d6f8e71355d79a96d0
+      internalID: -5446171161146801888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_GrassTrees_2
+      rect:
+        serializedVersion: 2
+        x: 2245
+        y: 3753
+        width: 426
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e9aab2ed25c42c3a13438bb043734d
+      internalID: -679819022819983770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_GrassTrees_3
+      rect:
+        serializedVersion: 2
+        x: 2821
+        y: 3685
+        width: 1090
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0326fca44a99247348d8734661eefffd
+      internalID: -3324999254094766517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_GrassTrees_4
+      rect:
+        serializedVersion: 2
+        x: 1877
+        y: 2679
+        width: 555
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33723ce2b90c94571a7344d55c8f94a7
+      internalID: 4769618864606997363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_GrassTrees_5
+      rect:
+        serializedVersion: 2
+        x: 2588
+        y: 2679
+        width: 757
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6de96d38c62b4300bba4c476d5119bd
+      internalID: -2047857390517935012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_GrassTrees_6
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 2393
+        width: 1158
+        height: 493
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087f803ed276649da87a919f34f3a781
+      internalID: 7889016725908318119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_GrassTrees_7
+      rect:
+        serializedVersion: 2
+        x: 3210
+        y: 2206
+        width: 711
+        height: 389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a081bcab235e149a69773ac97272096a
+      internalID: 1547569113787107357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_GrassTrees_8
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1604
+        width: 4053
+        height: 592
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c163719a83ec24923a651a337938023d
+      internalID: 6079966202939649427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_GrassTrees_9
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1376
+        width: 4069
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1d98f8a043b411b8e8e3e28716b8e7
+      internalID: -1363553833684801970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_GrassTrees_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 79
+        width: 4096
+        height: 1292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7845d155b99cc41d9bbdcb479b85dfe4
+      internalID: 3782637910040666849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 0830449579bcf40c2951e207d82e4bfd
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":4096.0,"y":4096.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Background_GrassTrees_0: 2185620969967287079
+      Background_GrassTrees_1: -5446171161146801888
+      Background_GrassTrees_10: 3782637910040666849
+      Background_GrassTrees_2: -679819022819983770
+      Background_GrassTrees_3: -3324999254094766517
+      Background_GrassTrees_4: 4769618864606997363
+      Background_GrassTrees_5: -2047857390517935012
+      Background_GrassTrees_6: 7889016725908318119
+      Background_GrassTrees_7: 1547569113787107357
+      Background_GrassTrees_8: 6079966202939649427
+      Background_GrassTrees_9: -1363553833684801970
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
