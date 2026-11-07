@@ -29,6 +29,10 @@ public class PlayerController : MonoBehaviour
     private float glidForceY;
     [SerializeField]
     private float flyForce;
+    [SerializeField]
+    private float maxYFly;
+    [SerializeField]
+    private float minYFly;
     //Holds all of the different poo objects
     [SerializeField]
     private GameObject[] pooList;
@@ -64,8 +68,10 @@ public class PlayerController : MonoBehaviour
     //=================================================================
     void FixedUpdate()
     {
-        
+
         applyPhysicsToBird();
+        maxHeightCheck();
+        minHeightCheck();
     }
     //=================================================================
     //This will handle all user input given keyboard, mouse, joystick
@@ -138,5 +144,31 @@ public class PlayerController : MonoBehaviour
         int randomPooIndex = Random.Range(0, pooList.Length);
         //create the poo in the game at the location pooLocation
         Instantiate(pooList[randomPooIndex], pooLocation.position, pooLocation.rotation);
+    }
+    //=================================================================
+    //This will be used to dictate how high the player can fly
+    //=================================================================
+    private void maxHeightCheck()
+    {
+        if (transform.position.y > maxYFly)
+        {
+            transform.position = new Vector3(transform.position.x, maxYFly, transform.position.z);
+
+            rb.linearVelocity = new Vector2(rb.linearVelocity.x, Mathf.Min(rb.linearVelocity.y, 0));
+
+        }
+    }
+
+    //=================================================================
+    //This will be used to dictate how low the player can fly
+    //=================================================================
+    private void minHeightCheck()
+    {
+        if(transform.position.y < minYFly)
+        {
+            transform.position = new Vector3(transform.position.x, minYFly, transform.position.z);
+
+            rb.linearVelocity = new Vector2(rb.linearVelocityX, Mathf.Max(rb.linearVelocityY, 0));
+        }
     }
 }
