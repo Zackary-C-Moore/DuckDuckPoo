@@ -35,7 +35,9 @@ public class PlayerController : MonoBehaviour
     private float minYFly;
     //Holds all of the different poo objects
     [SerializeField]
-    private GameObject[] pooList;
+    private GameObject pooPrefab;
+    [SerializeField]
+    private Sprite[] pooSprites;
     //Used to determine what to create the poo in the game
     [SerializeField]
     private Transform pooLocation;
@@ -136,14 +138,17 @@ public class PlayerController : MonoBehaviour
         }
     }
     //=================================================================
-    //This will create the poo object to drop and create it at the poo
-    //location
+    //This will create the poo object with a random sprit to drop and 
+    // create it at the poo location
     //=================================================================
     private void dropPoo()
     {
-        int randomPooIndex = Random.Range(0, pooList.Length);
+        //pick a random index in the range of number of poo sprites
+        int randomPooIndex = Random.Range(0, pooSprites.Length);
+        //give the poo prefab them sprite that I want to use
+        pooPrefab.GetComponent<SpriteRenderer>().sprite = pooSprites[randomPooIndex];
         //create the poo in the game at the location pooLocation
-        Instantiate(pooList[randomPooIndex], pooLocation.position, pooLocation.rotation);
+        Instantiate(pooPrefab, pooLocation.position, pooLocation.rotation);
     }
     //=================================================================
     //This will be used to dictate how high the player can fly
